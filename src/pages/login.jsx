@@ -5,7 +5,7 @@ import { useTheme } from '@mui/material/styles';
 import { Box, Button, Stack, TextField, Typography, Alert } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
-import Register from './Register'; // Importamos el componente Register
+import Register from './register'; // Importamos el componente Register
 
 const providers = [{ id: 'credentials', name: 'Email and Password' }];
 

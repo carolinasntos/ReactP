@@ -1,10 +1,10 @@
 import { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate, useLocation, useNavigate } from 'react-router-dom';
 import { Box } from '@mui/material';
-import Header from './components/header.jsx';
-import Footer from './components/footer.jsx';
+import Header from './components/Header.jsx';
+import Footer from './components/Footer.jsx';
 import Login from './pages/login.jsx';
-import Register from './pages/Register.jsx'; // ✅ Importar la página de registro
+import Register from './pages/register.jsx'; // ✅ Importar la página de registro
 import Inicio from './pages/inicio.jsx'; // ✅ Cambiar de AdminPage a Inicio
 
 function App() {
