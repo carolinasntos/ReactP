@@ -1,0 +1,10 @@
+En  esta etapa de desarrollo, el alumno realizará una aplicación web de una sola página mediante React, donde se identifique y utilicen diferentes componentes, hooks, funciones y elementos de React.
+
+Crea un proyecto de React mediante la terminal. <npm create vite@latest>
+Crea o utiliza varios componentes y utilízalos para crear una aplicación web, por lo menos:
+Encabezado (Menú superior o menú hamburguesa).
+Pie de página.
+Un párrafo que contenga información de una variable.
+Un control personalizado.
+Un botón que actualicé el valor de la variable.
+Elimina la carpeta node_modules y comprime la carpeta principal del proyecto en un archivo ZIP con todos los archivos requeridos.
