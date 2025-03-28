@@ -122,4 +122,10 @@ export default function Header({ setAuth }) {
       <Toolbar />
     </>
   );
+
+  
+}
+//AÑADIDO
+Header.propTypes = {
+  setAuth: PropTypes.func.isRequired
 }
